@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Gabarito);
+@import url(https://fonts.googleapis.com/css?family=Pixelify+Sans);
+
+
+body {
+  background-color: red;
+  text-align: center;
+}
+
+h1 {
+  font-family:"Gabarito";
+  font-weight: normal;
+  line-height: 9;
+  margin-bottom: 11px;
+  text-decoration: overline;
+  font-size: 500px;
+  color: yellow;
+}
+
+h2 {
+  font-family:"Pixelify Sans";
+  color: rgb(255, 139, 69);
+  font-size: 19px;
+  margin-top: 0px;
+}
